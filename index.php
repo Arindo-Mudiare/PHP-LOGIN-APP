@@ -21,7 +21,7 @@ require_once "inc/config.php";
   </nav>
   <div class="container">
     <div class="">
-    <h1 class="jumbotron">Welcome to the PHP Login App</h1>
+    <h1 class="jumbotron">Welcome Bruv Kindly Login Jejely</h1>
     <p>
       <a class="btn btn-success" href="login.php">Login</a>
       <a class="btn btn-primary" href="register.php">Register</a>
